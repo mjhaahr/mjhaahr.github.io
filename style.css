@@ -11,17 +11,26 @@ html, body {
 }
 
 a.button {
-    padding: 2px 6px;
+    padding: 2px 8px;
     border: 1px outset #737373;
-    border-radius: 3px;
+    border-radius: 4px;
     color: #fafafa;
     background-color: #08435c;
     text-decoration: none;
     font-size: 1rem;
+    margin-right: 12px;
 }
 
 a.button:hover {
-    border-color: #fafafa
+    border-color: #b0b0b0;
     color: #ffffff;
-    background-color: #0c5778;
+    background-color: #11688f;
+}
+
+.buttonIcon {
+    color: #fafafa;
+    width: 1.2rem;
+    height: 1.2rem;
+    vertical-align: top;
+    padding-top: 0.075rem;
 }

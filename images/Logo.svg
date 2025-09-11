@@ -47,7 +47,7 @@
        style="stroke-width:2;stroke-dasharray:none"
        transform="matrix(2.2009554,0,0,2.2009554,-10.224262,-6.6742026)">
       <circle
-         style="fill:#ffffff;fill-opacity:0.323232;fill-rule:evenodd;stroke:#000000;stroke-width:2.72849;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;fill-opacity:0.323232;fill-rule:evenodd;stroke:#000000;stroke-width:2.72849;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
          id="path234"
          cx="27.362783"
          cy="25.749817"
